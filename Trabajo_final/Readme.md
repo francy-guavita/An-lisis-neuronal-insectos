@@ -1,1 +1,1 @@
-
+Este cuaderno contiene el análisis de los datos usados para el proyecto final del curso, utlizado para evaluar si un estímulo visual dinámico (película natural) recluta una fracción distinta de neuronas que un estímulo estático (escenas naturales) en la corteza visual primaria (VISp) de un ratón. Los satos se obtuvieorn de  registros extracelulares del conjunto de datos Visual Coding Neuropixels del Allen Brain Observatory.
